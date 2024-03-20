@@ -1,0 +1,8 @@
+{
+  "name": "Who-starred-your-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PinkQween/Who-starred-your-repo.git",
+  "author": "Hanna Skairipa <83796834+PinkQween@users.noreply.github.com>",
+  "license": "MIT"
+}

@@ -1,4 +1,3 @@
-require('dotenv').config();
 const https = require('https');
 
 const username = process.env.GITHUB_USERNAME;
